@@ -1,0 +1,23 @@
+{
+  "name": "toy-robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackie311/toy-robot.git"
+  },
+  "author": "Jackie Jin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackie311/toy-robot/issues"
+  },
+  "homepage": "https://github.com/jackie311/toy-robot#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
